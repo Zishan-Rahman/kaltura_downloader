@@ -32,11 +32,11 @@ except:
     print("Something went wrong opening courses.txt. Make sure that text file exists with your module link on each line")
 
 print("Getting the video list")
-Browser.getVideoList(database,courses)
+# Browser.getVideoList(database,courses)
 print("Getting video URLs")
 delay = 1.0 #Increase this to 1.0 if you get a lot of "Failed to find frame"
 
-Browser.getVideoURLs(database,delay)
+# Browser.getVideoURLs(database,delay)
 
 
 #Video downloading

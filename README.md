@@ -11,17 +11,9 @@ Benefits include:
 
 ## Todo
 
-- Convert variable names from camel case to snake case
-- Add an auto-install script
-- Improve setup experience
-- Headless mode
-- Use of other drivers
-- Linux and Mac OSX support
-- srt download option
-- Auto-add ffmpeg to path 
-- Add padding so files are in order and avoid overwriting of videos of the same file name.
-- Checking of files that exist so that you don't need to find and search for the same links again.
-- Multithread the get video list function to improve speed(currently the biggest bottleneck in the code)
+- Basically wait until [POPLOPUK](https://github.com/POPLOPUK/kaltura_downloader) does everything he wants to do (I plan to either merge his changes into my fork or vice versa)
+- Get this darn thing working on my computer! All I did so far was comment out 2 lines! 🙃
+  
 ## Confirmed working on
  - Keats
  
