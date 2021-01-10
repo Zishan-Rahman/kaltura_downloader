@@ -2,6 +2,7 @@
 
 > :warning: This project is very WIP, the link to the video page or the video itself might not be recognised.
 > This project is a fork of a fork of the original repository so our programs may not work together in the future.
+> I'm probably not even gonna work on this anymore so feel free to try out the other forks! 🙃
 > Since this is a fork of a fork, most of the text that uses the first person refers to [POPLOPUK](https://github.com/POPLOPUK/) and not me.
 
 This is a project intended to automatically download all videos in a course and store them locally. My aim has been merging [memst's](https://github.com/memst/keats_downloader) and [dylantjb's](https://github.com/dylantjb/keats_downloader) code into one single script easy to use script that any user can run without having to understand the code along with my edits.
@@ -15,7 +16,8 @@ Benefits include:
 ## Todo (this section is for [Zishan](https://github.com/Zishan-Rahman/kaltura_downloader))
 
 - Basically wait until [POPLOPUK](https://github.com/POPLOPUK/kaltura_downloader) does everything he wants to do (I plan to either merge his changes into my fork or vice versa)
-- Get this darn thing working on my computer! All I did so far was comment out 2 lines! 🙃
+- Get this darn thing working on my computer! All I did so far was comment out 2 lines, and soon I uncommented those lines again because the program just stopped working (for some reason)! 🙃
+- Maybe delete this repository?
   
 ## Confirmed working on
 
